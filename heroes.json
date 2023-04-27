@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": "f127239f-69c4-43fa-8200-96c5c83e5d72",
+      "name": "aang",
+      "description": "wind",
+      "element": "wind"
+    },
+    {
+      "id": "31b80910-6ba3-47b6-b361-b33365ebef4f",
+      "name": "korra",
+      "description": "water",
+      "element": "water"
+    },
+    {
+      "id": "51f97bc0-8973-4f61-8d08-2184cb13c9d6",
+      "name": "rokku",
+      "description": "fire",
+      "element": "fire"
+    },
+    {
+      "id": "996a2e2e-a105-464e-a11d-d3ad03d6fe9e",
+      "name": "Kioshi",
+      "description": "earth",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
