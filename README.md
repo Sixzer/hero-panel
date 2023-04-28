@@ -1,1 +1,3 @@
-This is test project with hero admin panel!
+Учебный проект Панель создания супергероев
+
+Используемые технологии: JavaScript, React, Redux ToolKit, Bootstrap
